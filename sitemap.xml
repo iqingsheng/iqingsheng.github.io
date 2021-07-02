@@ -165,6 +165,13 @@
   </url>
   
   <url>
+    <loc>https://nzgong.com/tags/%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2021-07-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://nzgong.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-07-02</lastmod>
     <changefreq>daily</changefreq>
@@ -173,13 +180,6 @@
   
   <url>
     <loc>https://nzgong.com/tags/%E5%A4%87%E4%BB%BD/</loc>
-    <lastmod>2021-07-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nzgong.com/tags/%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2021-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -202,14 +202,14 @@
   </url>
   
   <url>
-    <loc>https://nzgong.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://nzgong.com/categories/SpringCloud/</loc>
     <lastmod>2021-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://nzgong.com/categories/SpringCloud/</loc>
+    <loc>https://nzgong.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2021-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
