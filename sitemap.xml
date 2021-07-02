@@ -158,14 +158,14 @@
   </url>
   
   <url>
-    <loc>https://nzgong.com/tags/%E6%A1%86%E6%9E%B6/</loc>
+    <loc>https://nzgong.com/tags/JVM/</loc>
     <lastmod>2021-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://nzgong.com/tags/JVM/</loc>
+    <loc>https://nzgong.com/tags/%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2021-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -195,14 +195,14 @@
 
   
   <url>
-    <loc>https://nzgong.com/categories/SpringCloud/</loc>
+    <loc>https://nzgong.com/categories/Java/</loc>
     <lastmod>2021-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://nzgong.com/categories/Java/</loc>
+    <loc>https://nzgong.com/categories/SpringCloud/</loc>
     <lastmod>2021-07-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
