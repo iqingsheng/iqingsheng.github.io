@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>IPXX.PRO</title>
+  <title>花生米的博客</title>
   
   
-  <link href="https://nzgong.com/atom.xml" rel="self"/>
+  <link href="https://ipxx.pro/atom.xml" rel="self"/>
   
-  <link href="https://nzgong.com/"/>
+  <link href="https://ipxx.pro/"/>
   <updated>2021-07-01T07:08:44.671Z</updated>
-  <id>https://nzgong.com/</id>
+  <id>https://ipxx.pro/</id>
   
   <author>
-    <name>NZgong</name>
+    <name>花生米</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>SpringCloud-01</title>
-    <link href="https://nzgong.com/archives/d3c36fc.html"/>
-    <id>https://nzgong.com/archives/d3c36fc.html</id>
+    <link href="https://ipxx.pro/archives/d3c36fc.html"/>
+    <id>https://ipxx.pro/archives/d3c36fc.html</id>
     <published>2021-07-01T05:44:08.000Z</published>
     <updated>2021-07-01T07:08:44.671Z</updated>
     
@@ -28,19 +28,19 @@
     
     
     
-    <category term="SpringCloud" scheme="https://nzgong.com/categories/SpringCloud/"/>
+    <category term="SpringCloud" scheme="https://ipxx.pro/categories/SpringCloud/"/>
     
     
-    <category term="Java" scheme="https://nzgong.com/tags/Java/"/>
+    <category term="Java" scheme="https://ipxx.pro/tags/Java/"/>
     
-    <category term="框架" scheme="https://nzgong.com/tags/%E6%A1%86%E6%9E%B6/"/>
+    <category term="框架" scheme="https://ipxx.pro/tags/%E6%A1%86%E6%9E%B6/"/>
     
   </entry>
   
   <entry>
     <title>Java面试-Java基础</title>
-    <link href="https://nzgong.com/archives/3301a9f.html"/>
-    <id>https://nzgong.com/archives/3301a9f.html</id>
+    <link href="https://ipxx.pro/archives/3301a9f.html"/>
+    <id>https://ipxx.pro/archives/3301a9f.html</id>
     <published>2021-06-30T10:07:16.000Z</published>
     <updated>2021-07-01T08:37:14.639Z</updated>
     
@@ -51,38 +51,38 @@
     
     
     
-    <category term="面试题" scheme="https://nzgong.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <category term="面试题" scheme="https://ipxx.pro/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
     
-    <category term="Java" scheme="https://nzgong.com/tags/Java/"/>
+    <category term="Java" scheme="https://ipxx.pro/tags/Java/"/>
     
-    <category term="面试" scheme="https://nzgong.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://ipxx.pro/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>JVM&amp;Java虚拟机</title>
-    <link href="https://nzgong.com/archives/6037eeb8.html"/>
-    <id>https://nzgong.com/archives/6037eeb8.html</id>
+    <link href="https://ipxx.pro/archives/6037eeb8.html"/>
+    <id>https://ipxx.pro/archives/6037eeb8.html</id>
     <published>2021-06-30T01:44:57.000Z</published>
     <updated>2021-06-30T09:39:45.244Z</updated>
     
     
     
     
-    <category term="Java" scheme="https://nzgong.com/categories/Java/"/>
+    <category term="Java" scheme="https://ipxx.pro/categories/Java/"/>
     
     
-    <category term="Java" scheme="https://nzgong.com/tags/Java/"/>
+    <category term="Java" scheme="https://ipxx.pro/tags/Java/"/>
     
-    <category term="JVM" scheme="https://nzgong.com/tags/JVM/"/>
+    <category term="JVM" scheme="https://ipxx.pro/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>博客备份</title>
-    <link href="https://nzgong.com/archives/34169.html"/>
-    <id>https://nzgong.com/archives/34169.html</id>
+    <link href="https://ipxx.pro/archives/34169.html"/>
+    <id>https://ipxx.pro/archives/34169.html</id>
     <published>2021-06-29T03:16:10.000Z</published>
     <updated>2021-06-30T06:36:38.640Z</updated>
     
@@ -93,12 +93,12 @@
     
     
     
-    <category term="博客搭建" scheme="https://nzgong.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="博客搭建" scheme="https://ipxx.pro/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-    <category term="博客" scheme="https://nzgong.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://ipxx.pro/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="备份" scheme="https://nzgong.com/tags/%E5%A4%87%E4%BB%BD/"/>
+    <category term="备份" scheme="https://ipxx.pro/tags/%E5%A4%87%E4%BB%BD/"/>
     
   </entry>
   
