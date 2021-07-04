@@ -1,34 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>博客备份</title>
-      <link href="/archives/34169.html"/>
-      <url>/archives/34169.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="备份博客"><a href="#备份博客" class="headerlink" title="备份博客"></a>备份博客</h2><h3 id="创建新分支"><a href="#创建新分支" class="headerlink" title="创建新分支"></a>创建新分支</h3><p>打开自己的github里存放博文页面文件的仓库（确保已有主分支），建立一个新的分支hexo，并将其设置为默认分支。</p><p><img src="https://cdn.jsdelivr.net/gh/nzgong/IMG/20210629112623.png"></p><p>本地的博客原始目录里只有.deploy_git文件（里面存放的是上传到博客仓库的页面文件），并没有.git文件，所以要先在其他地方新建空目录，将仓库的hexo分支clone下来，再将里面的.git文件复制到本地的博客目录中。</p><p><img src="https://cdn.jsdelivr.net/gh/nzgong/IMG/20210629113040.png"></p><p>检查主题文件下有没有克隆时产生的.git文件，有的话要删掉，因为git不能嵌套上传，会导致主题文件无法上传，备份出问题。</p><h3 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h3><p>在博客根目录下执行如下命令</p><pre class="language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">git</span> <span class="token function">add</span> <span class="token builtin class-name">.</span>$ <span class="token function">git</span> commit -m <span class="token string">"备份"</span>$ <span class="token function">git</span> push origin hexo</code></pre><h3 id="日常更新命令"><a href="#日常更新命令" class="headerlink" title="日常更新命令"></a>日常更新命令</h3><pre class="language-bash" data-language="bash"><code class="language-bash">hexo clean<span class="token function">git</span> <span class="token function">add</span> <span class="token builtin class-name">.</span><span class="token function">git</span> commit -m <span class="token string">"备份"</span><span class="token function">git</span> pushhexo ghexo d</code></pre><h2 id="恢复博客"><a href="#恢复博客" class="headerlink" title="恢复博客"></a>恢复博客</h2><h3 id="克隆项目到本地"><a href="#克隆项目到本地" class="headerlink" title="克隆项目到本地"></a>克隆项目到本地</h3><pre class="language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">git</span> clone https://github.com/yourgithubname/yourgithubname.github.io</code></pre><h3 id="恢复博客-1"><a href="#恢复博客-1" class="headerlink" title="恢复博客"></a>恢复博客</h3><pre class="language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">npm</span> <span class="token function">install</span> hexo-cli$ <span class="token function">npm</span> <span class="token function">install</span>$ <span class="token function">npm</span> <span class="token function">install</span> hexo-deployer-git</code></pre>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>博客备份</title>
+    <url>/archives/34169.html</url>
+    <content><![CDATA[<h2 id="备份博客"><a href="#备份博客" class="headerlink" title="备份博客"></a>备份博客</h2><h3 id="创建新分支"><a href="#创建新分支" class="headerlink" title="创建新分支"></a>创建新分支</h3><p>打开自己的github里存放博文页面文件的仓库（确保已有主分支），建立一个新的分支hexo，并将其设置为默认分支。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/nzgong/IMG/20210629112623.png"></p>
+<p>本地的博客原始目录里只有.deploy_git文件（里面存放的是上传到博客仓库的页面文件），并没有.git文件，所以要先在其他地方新建空目录，将仓库的hexo分支clone下来，再将里面的.git文件复制到本地的博客目录中。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/nzgong/IMG/20210629113040.png"></p>
+<p>检查主题文件下有没有克隆时产生的.git文件，有的话要删掉，因为git不能嵌套上传，会导致主题文件无法上传，备份出问题。</p>
+<h3 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h3><p>在博客根目录下执行如下命令</p>
+<pre class="language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">git</span> <span class="token function">add</span> <span class="token builtin class-name">.</span>
+$ <span class="token function">git</span> commit -m <span class="token string">"备份"</span>
+$ <span class="token function">git</span> push origin hexo</code></pre>
+
+<h3 id="日常更新命令"><a href="#日常更新命令" class="headerlink" title="日常更新命令"></a>日常更新命令</h3><pre class="language-bash" data-language="bash"><code class="language-bash">hexo clean
+<span class="token function">git</span> <span class="token function">add</span> <span class="token builtin class-name">.</span>
+<span class="token function">git</span> commit -m <span class="token string">"备份"</span>
+<span class="token function">git</span> push
+hexo g
+hexo d</code></pre>
+
+<h2 id="恢复博客"><a href="#恢复博客" class="headerlink" title="恢复博客"></a>恢复博客</h2><h3 id="克隆项目到本地"><a href="#克隆项目到本地" class="headerlink" title="克隆项目到本地"></a>克隆项目到本地</h3><pre class="language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">git</span> clone https://github.com/yourgithubname/yourgithubname.github.io</code></pre>
+
+<h3 id="恢复博客-1"><a href="#恢复博客-1" class="headerlink" title="恢复博客"></a>恢复博客</h3><pre class="language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">npm</span> <span class="token function">install</span> hexo-cli
+$ <span class="token function">npm</span> <span class="token function">install</span>
+$ <span class="token function">npm</span> <span class="token function">install</span> hexo-deployer-git</code></pre>
+
+]]></content>
       <categories>
-          
-          <category> 博客搭建 </category>
-          
+        <category>博客搭建</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 博客 </tag>
-            
-            <tag> 备份 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>博客</tag>
+        <tag>备份</tag>
+      </tags>
+  </entry>
 </search>
