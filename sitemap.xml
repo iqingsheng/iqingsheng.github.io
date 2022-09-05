@@ -151,20 +151,6 @@
 
   
   <url>
-    <loc>https://ipxx.pro/tags/%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4/</loc>
-    <lastmod>2022-09-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ipxx.pro/tags/AdGuardHome/</loc>
-    <lastmod>2022-09-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ipxx.pro/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-09-05</lastmod>
     <changefreq>daily</changefreq>
@@ -178,17 +164,31 @@
     <priority>0.6</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://ipxx.pro/categories/%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4/</loc>
+    <loc>https://ipxx.pro/tags/%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4/</loc>
     <lastmod>2022-09-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
+    <loc>https://ipxx.pro/tags/AdGuardHome/</loc>
+    <lastmod>2022-09-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://ipxx.pro/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2022-09-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ipxx.pro/categories/%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4/</loc>
     <lastmod>2022-09-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

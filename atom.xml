@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>花生米的博客</title>
+  <title>云怡的博客</title>
   
   
   <link href="https://ipxx.pro/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://ipxx.pro/</id>
   
   <author>
-    <name>花生米</name>
+    <name>云怡</name>
     
   </author>
   
