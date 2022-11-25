@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://ipxx.pro/about/index.html</loc>
-    
-    <lastmod>2022-11-02</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ipxx.pro/manifest.json</loc>
     
     <lastmod>2022-11-02</lastmod>
@@ -31,6 +24,13 @@
   
   <url>
     <loc>https://ipxx.pro/categories/index.html</loc>
+    
+    <lastmod>2022-11-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ipxx.pro/books/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -51,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://ipxx.pro/books/index.html</loc>
-    
-    <lastmod>2022-11-02</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ipxx.pro/bangumis/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
@@ -72,7 +65,14 @@
   </url>
   
   <url>
-    <loc>https://ipxx.pro/imgs/index.html</loc>
+    <loc>https://ipxx.pro/about/index.html</loc>
+    
+    <lastmod>2022-11-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ipxx.pro/gallery/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -86,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://ipxx.pro/link/index.html</loc>
+    <loc>https://ipxx.pro/imgs/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ipxx.pro/gallery/index.html</loc>
+    <loc>https://ipxx.pro/link/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -114,7 +114,7 @@
   </url>
   
   <url>
-    <loc>https://ipxx.pro/tags/index.html</loc>
+    <loc>https://ipxx.pro/yiqing/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://ipxx.pro/yiqing/index.html</loc>
+    <loc>https://ipxx.pro/tags/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
